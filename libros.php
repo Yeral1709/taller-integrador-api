@@ -26,7 +26,7 @@ if ($busqueda !== "") {
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Buscar libros</title>
+    <title>Busca libros</title>
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
