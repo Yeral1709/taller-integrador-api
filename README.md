@@ -25,5 +25,5 @@ Demostrar el flujo completo de desarrollo de software utilizando control de vers
 4. Abrir la aplicación desde `http://localhost/nombre-de-tu-carpeta/index.php`.
 
 ## Autor
-Aprendiz SENA · Ficha 3538620
+Yerith Botello Aprendiz SENA · Ficha 3538620
 Técnico en Programación de Software
