@@ -29,7 +29,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Posts - JSONPlaceholder</title>
+    <title>Post - JSONPlaceholder</title>
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
